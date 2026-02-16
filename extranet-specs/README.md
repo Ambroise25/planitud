@@ -17,8 +17,9 @@ Documenter toutes les fonctionnalites de l'Extranet actuel pour les reproduire d
 | 5 | Journal d'activites | [05-journal-activites.md](05-journal-activites.md) | ✓ Termine |
 | 6 | Contrats d'entretien | [06-contrats-entretien.md](06-contrats-entretien.md) | ✓ Termine |
 | 7 | Ordres de service | [07-ordres-service.md](07-ordres-service.md) | ✓ Termine |
-| 8 | Rapports/CR avec photos | Voir planitud-specs/01-comptes-rendus-intervention.md | ✓ Termine |
-| 9 | Envoi email syndic | Voir planitud-specs/03-envoi-automatique-syndic.md | ✓ Termine |
+| 8 | Doublons et relances | [08-doublons-relances.md](08-doublons-relances.md) | ✓ Termine |
+| 9 | Rapports/CR avec photos | Voir planitud-specs/01-comptes-rendus-intervention.md | ✓ Termine |
+| 10 | Envoi email syndic | Voir planitud-specs/03-envoi-automatique-syndic.md | ✓ Termine |
 
 ---
 
